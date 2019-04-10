@@ -18,6 +18,9 @@ Modify menu and choose Ungroup (also sometimes called Disassociate).
 
 Pull requests with translated versions of this whitepaper are welcome.
 
+Please retain the original formatting of the English version as much as possible,
+this can be done by translating directly on the original English version's OpenDocument file.
+
 Please add a link to the original English version (bitcoin.org/bitcoin.pdf) at the top of the document.
 
     Translated in French from bitcoin.org/bitcoin.pdf
